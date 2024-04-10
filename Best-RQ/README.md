@@ -20,4 +20,4 @@ wav2vec 2.0: ["wav2vec 2.0: A Framework for Self-Supervised Learning of Speech R
 Whisper: ["Robust Speech Recognition via Large-Scale Weak Supervision"](https://proceedings.mlr.press/v202/radford23a/radford23a.pdf)
 
 ## Related Paper
-- Conditional Paper: ["Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference"](https://proceedings.neurips.cc/paper_files/paper/2023/file/19d7204af519eae9993f7f72377a0ec0-Paper-Conference.pdf) 
+Conditional Paper: ["Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference"](https://proceedings.neurips.cc/paper_files/paper/2023/file/19d7204af519eae9993f7f72377a0ec0-Paper-Conference.pdf) 
