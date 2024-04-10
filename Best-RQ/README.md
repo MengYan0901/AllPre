@@ -6,6 +6,9 @@ Paper: ["Self-supervised Learning with Random-projection Quantizer for Speech Re
 
 ![img.png](Wav2vec2.0.png)
 ![img_1.png](Best-RQ.png)
+
+Experiments: Some Downstream Tasks(Finetune, Automatic Speech Recognition (ASR), Automatic Speaker Verification (ASV), Emotion Recognition (ER))
+
 Conclusion: BEST-RQ pre-trains 2.4x faster than wav2vec 2.0
 
 - wav2vec 2.0: ["wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations"](https://arxiv.org/pdf/2006.11477.pdf)
